@@ -1,4 +1,4 @@
-timestamp,open,high,low,close,adjusted_close,volume,dividend_amount,split_coefficient
+time,open,high,low,close,adjusted_close,volume,dividend_amount,split_coefficient
 2024-10-11,416.135,417.13,413.25,416.32,416.32,14144944,0.0000,1.0
 2024-10-10,415.225,417.35,413.15,415.84,415.84,13848376,0.0000,1.0
 2024-10-09,415.86,420.38,414.3,417.46,417.46,14974257,0.0000,1.0
